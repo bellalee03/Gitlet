@@ -1,6 +1,6 @@
 # gitlet
 
-- Gitlet is an independent version-control system that mimics some of the basic features of the popular system Git.
+Gitlet is an independent version-control system that mirrors several foundational elements found in the widely renowned Git system.
   
 - The main functionality that Gitlet supports is:
 

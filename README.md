@@ -1,17 +1,19 @@
-# gitlet
+# Gitlet
 
-Gitlet is an independent version-control system that mirrors several foundational elements found in the widely renowned Git system.
-  
-- The main functionality that Gitlet supports is:
+Gitlet is a streamlined version control system inspired by Git, tailored to manage and track the evolution of projects with efficiency and simplicity.
 
-- 1. Saving the contents of entire directories of files. In Gitlet, this is called committing, and the saved contents themselves are called commits.
-  2. Restoring a version of one or more files or entire commits. In Gitlet, this is called checking out those files or that commit.
-  3. Viewing the history of your backups. In Gitlet, you view this history in something called the log.
-  4. Maintaining related sequences of commits, called branches.
-  5. Merging changes made in one branch into another.
+## Core Functionalities
+- **Committing**: Captures snapshots of directories, preserving the state of a project at points in time.
+- **Checking Out**: Retrieves the state of files from previous commits, facilitating version control and rollback.
+- **Logging**: Maintains a history of commits for review and tracking progress.
+- **Branching**: Supports divergent paths of development, allowing experimentation and feature separation.
+- **Merging**: Integrates changes across branches, reconciling different development trajectories.
 
-- The features implemented are init, add, commit, rm, log, global-log, find, status, checkout, branch, rm-branch, reset, and merge.
+## Skills Demonstrated
+- **Java Programming**: Entirely built using Java, showcasing object-oriented design and file I/O handling.
+- **Data Structures**: Utilizes trees and linked lists to manage commits and branching effectively.
+- **Algorithm Implementation**: Employs algorithms for efficient merging and conflict resolution.
 
+This project is a testament to the application of computer science fundamentals in creating robust tools for developers to manage their codebase effectively.
 
-To read full specs, please visit: https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/proj/proj3/introduction.html
-
+For an in-depth exploration of the project's functionalities and design, the full specifications are available [here](https://inst.eecs.berkeley.edu/~cs61b/sp22/materials/proj/proj3/introduction.html).
